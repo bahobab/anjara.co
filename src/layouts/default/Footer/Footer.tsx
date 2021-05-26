@@ -26,3 +26,4 @@ const Footer: FunctionComponent<Props> = ({}) => {
 };
 
 export default Footer;
+

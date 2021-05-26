@@ -2,3 +2,9 @@
 node_modules
 npm-*.log
 dist
+
+/npm-debug.log
+.DS_Store
+out/
+
+.vscode

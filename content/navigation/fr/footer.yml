@@ -1,0 +1,7 @@
+title: Footer
+links:
+  - label: A propos d'Anjara
+    page: about
+
+  - label: info@anjara-consulting.com
+    href: mailto:info@anjara-consulting.com
