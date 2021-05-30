@@ -3,6 +3,8 @@ name: Contacts
 title: CONTACTS
 created: 2020-10-02T22:37:57.850Z
 ---
+![](/media/img/communities3.jpg)
+
 Nous sommes à votre disposition si vous avez besoin d’un conseil
 
 N’hésitez pas à nous contacter !
@@ -13,10 +15,12 @@ Hanitrinialasoa RAJOHNSON - Directrice de développement
 
 Antsakaviro lot II M 92 . Antananarivo -101 Madagascar
 
-
-
 [www.anjara-consulting.com](http://www.anjara-consulting.com/)
 
 tel: ( + 261 ) 34 48 781 17
 
 [contact.anjaraconsulting@gmail.com](mailto:contact.anjaraconsulting@gmail.com)
+
+![](/media/img/pro4.jpg)
+
+![](/media/img/metier3.jpg)
