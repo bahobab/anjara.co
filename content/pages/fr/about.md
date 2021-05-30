@@ -13,7 +13,7 @@ POPULATION COSMOPOLITE, CULTURE DIVERSE :
 
 Venant d'horizons divers : Afrique, Sud-Est asiatique (Indonésie), Proche-Orient, Europe… les 23 millions d’habitants forment la société pluriculturelle malgache actuelle. Cette diversité lui confère une richesse sur le plan culturel car elle compte 18 ethnies distinctes (foko) ou nations autochtones et parlant des langues austronésiennes. Les cultures et coutumes sont donc différentes selon les régions de cette ile.
 
-![paysage de Mada](/media/img/photo-2021-05-23-18-28-32-1-.jpg)
+![paysage de Mada](/media/img/collectivites4.jpg)
 
 DÉVELOPPEMENT ÉCONOMIQUE ET SOCIAL EN 2021:
 
