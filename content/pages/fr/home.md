@@ -3,6 +3,8 @@ name: Accueil
 title: Tongasoa
 created: 2020-10-02T16:40:01.429Z
 ---
+<div className="container">
+
 <div className="mada-carte">
 
 ![Tana](/media/img/madagascar-2020.jpg)
@@ -20,3 +22,5 @@ Grâce à l’animation d’un réseau important de partenaires institutionnels 
 Historiquement implantée à Antananarivo, notre équipe œuvre désormais sur le tout le territoire Malgache.
 
 Notre méthode de travail a porté ses fruits car nous avons réussi a trouver de nombreux partenaires institutionnels et d’investisseurs étrangers pour nous accompagner dans leur projet de développement.
+
+</div>

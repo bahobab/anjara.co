@@ -3,6 +3,9 @@ name: Services
 title: SERVICES
 created: 2021-05-30T16:08:03.387Z
 ---
+
+<div className="container">
+
 ![](/media/img/collectivites.jpg)
 
 ### COLLECTIVITES
@@ -34,3 +37,5 @@ R6​– Accompagnement à la signature des contrats, conventions et promesses d
 R7​– Suivi du dossier en fonction de vos besoins jusqu’au démarrage de votre activé.
 
 ![](/media/img/collectivites2.jpg)
+
+</div>
