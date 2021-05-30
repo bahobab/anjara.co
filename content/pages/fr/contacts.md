@@ -5,9 +5,9 @@ created: 2020-10-02T22:37:57.850Z
 ---
 <div className="container">
 
-![](/media/img/communities3.jpg)
-
 <div className="card">
+
+![](/media/img/communities3.jpg)
 
 <div className="card-container">
 
