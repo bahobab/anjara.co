@@ -4,10 +4,10 @@ links:
     page: metiers-setvices
   - label: The Team
     page: lequipe
+  - label: Communities
+    href: ""
+    page: collectivites
   - label: Contacts
     page: contacts
   - label: About us
     page: about
-  - label: Communities
-    href: ""
-    page: collectivites
