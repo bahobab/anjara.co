@@ -18,7 +18,7 @@ const ContactsPage: FunctionComponent<PageComponentProps> = ({
       </PageSize>
     </Section>
 
-    <Section alternate>
+    {/* <Section alternate>
       <PageSize>
         <p>Example of a page rendered with a custom component.</p>
 
@@ -33,7 +33,7 @@ const ContactsPage: FunctionComponent<PageComponentProps> = ({
           <code>src/components/page-components/index.ts</code>.
         </p>
       </PageSize>
-    </Section>
+    </Section> */}
   </>
 );
 
