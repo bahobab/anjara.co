@@ -42,11 +42,15 @@ a {
 /* Add some padding inside the card container */
 .card-container {
   padding: 2px 16px;
+  width: 100%;
 }
 
+.card p {
+  width: 100%;
+}
 .card img {
   width: 100%;
-  padding: 0 5px;
+  // padding: 0 10px;
 }
 
 // ---------------- card --------------------

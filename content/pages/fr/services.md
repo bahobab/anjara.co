@@ -15,11 +15,12 @@ created: 2021-05-30T16:08:03.387Z
 
 <div className="card">
 
+### COLLECTIVITES
+
 ![](/media/img/communities4.jpg)
 
 <div className="card-container">
 
-### COLLECTIVITES
 
 Vous avez besoin d’un projet d’intérêt général dans votre secteur pour accompagner votre développement, vous n’avez pas les moyens financiers pour réaliser ledit projet ?
 
@@ -31,11 +32,12 @@ Contactez - nous pour organiser un rdv a votre convenance pour évoquer votre si
 
 <div className="card">
 
+### PROFESSIONELS
+
 ![](/media/img/collectivites2.jpg)
 
 <div className="card-container">
 
-### PROFESSIONELS
 
 Vous êtes investisseurs dans la promotion immobilière, aménageurs, constructeurs,bâtiment, l’éner​gie, l’assainissement, etc..
 
