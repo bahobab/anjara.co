@@ -9,7 +9,7 @@ Vous souhaitez sereinement travailler sur Madagascar,
 
 la vocation d’Anjara-Consulting est de donner naissance aux projets en accompagnant les professionnels et investisseurs Malgaches ou étrangers sur Madagascar en lien avec nos valeurs humaines, sociales et environnementales.
 
-![](/media/img/metier2.jpg)
+![](/media/img/pro1.jpg)
 
 Nos compétences dans le conseil en tant qu’assistant maitrise d’ouvrage, du montage d’opération d’aménagement urbain ou de projet en matière d’énergie et de l’ingénierie est un atoutcohérent pour l’accompagn​ement de votre futur projet.
 
