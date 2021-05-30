@@ -1,10 +1,10 @@
 title: Header
 links:
-  - label: About us
-    page: about
-  - label: Contacts
-    page: contacts
   - label: Services
     page: metiers-setvices
   - label: The Team
     page: lequipe
+  - label: Contacts
+    page: contacts
+  - label: About us
+    page: about
