@@ -3,6 +3,7 @@ name: Home
 title: Welcome
 created: 2020-10-02T16:40:01.429Z
 ---
+
 Madagascar is a country that asks only one thing, that we extend our hand to support it in a healthy and respectful way in its economic and social development with transparency as the watchword.
 
 After several years in the business of land development and setting up operations and driven by a real passion for project development, the creation of Anjara Consulting was obvious.
