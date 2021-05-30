@@ -1,6 +1,6 @@
 ---
 name: Contacts
-title: Contacts
+title: CONTACTS
 created: 2020-10-02T22:37:57.850Z
 ---
 Nous sommes à votre disposition si vous avez besoin d’un conseil
