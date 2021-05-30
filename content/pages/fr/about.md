@@ -5,7 +5,7 @@ created: 2020-10-02T22:37:57.850Z
 ---
 Madagascar, joyau de l’Océan indien au large des côtes du continent africain. Cette île surnommée Île rouge ou Île continent est la cinquième plus grande île du monde, longue de 1580 km et large de 580 km. Elle est le fruit de plusieurs migrations de peuples, le sanctuaire d'une nature unique au monde, mais aussi de nombreux revirements historiques et économiques.
 
-<div className="mada-carte">
+<div className="mada-ville">
 
 ![carte de Madagascar](/media/img/madagascar.jpg)
 
@@ -17,7 +17,7 @@ POPULATION COSMOPOLITE, CULTURE DIVERSE :
 
 Venant d'horizons divers : Afrique, Sud-Est asiatique (Indonésie), Proche-Orient, Europe… les 23 millions d’habitants forment la société pluriculturelle malgache actuelle. Cette diversité lui confère une richesse sur le plan culturel car elle compte 18 ethnies distinctes (foko) ou nations autochtones et parlant des langues austronésiennes. Les cultures et coutumes sont donc différentes selon les régions de cette ile.
 
-<div className="about">
+<div className="about-collect">
 
 ![paysage de Mada](/media/img/collectivites4.jpg)
 

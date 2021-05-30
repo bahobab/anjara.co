@@ -3,7 +3,11 @@ name: Accueil
 title: Tongasoa
 created: 2020-10-02T16:40:01.429Z
 ---
+<div className="mada-carte">
+
 ![Tana](/media/img/madagascar-2020.jpg)
+
+</div>
 
 > Mandela quote
 
