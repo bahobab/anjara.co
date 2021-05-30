@@ -1,10 +1,8 @@
 title: Footer
 links:
-  - label: Metiers & Services
-    page: metiers-setvices
-  - label: info@anjara-consulting.com
-    href: mailto:info@anjara-consulting.com
   - label: Accueil
     page: home
-  - label: Nous contacter
-    page: contacts
+  - label: Metiers & Services
+    page: metiers-setvices
+  - label: contact.anjaraconsulting@gmail.com
+    href: mailto:contact.anjaraconsulting@gmail.com

@@ -1,10 +1,8 @@
 title: Footer
 links:
-  - label: Services
-    page: metiers-setvices
-  - label: info@mybrand.com
-    href: mailto:info@mybrand.com
   - label: Home
     page: home
-  - label: Contact
-    page: contacts
+  - label: Services
+    page: metiers-setvices
+  - label: contact.anjaraconsulting@gmail.com
+    href: mailto:contact.anjaraconsulting@gmail.com
