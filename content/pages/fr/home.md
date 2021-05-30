@@ -3,9 +3,9 @@ name: Accueil
 title: Bienvenu(e)
 created: 2020-10-02T16:40:01.429Z
 ---
-
-
 Madagascar est un pays qui ne demande qu’une chose, qu’on lui tende la main pour l’accompagner sainement et respectueusement dans son développement économique et social avec comme maitre mot la transparence.
+
+![Collectivites](img/collectivites.jpg "Collectivites")
 
 Après plusieurs années dans le métier du développement foncier et du montage d’opérations et animé par une vraie passion pour le développement de projets, la création d’ Anjara Consulting était une évidence.
 
