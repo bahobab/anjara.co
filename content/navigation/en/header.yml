@@ -1,13 +1,13 @@
 title: Header
 links:
-  - label: Services
-    page: metiers-setvices
-  - label: The Team
-    page: lequipe
-  - label: Communities
-    href: ""
-    page: collectivites
-  - label: Contacts
-    page: contacts
-  - label: About us
+  - label: MADAGASCAR
     page: about
+  - label: TRADES
+    href: ""
+    page: metiers-setvices
+  - label: SERVICES
+    page: metiers-setvices
+  - label: THE TEAM
+    page: lequipe
+  - label: CONTACTS
+    page: contacts
