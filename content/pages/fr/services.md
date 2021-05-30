@@ -1,10 +1,8 @@
 ---
 name: Services
-title: Services
+title: "## SERVICES"
 created: 2021-05-30T16:08:03.387Z
 ---
-## SERVICES
-
 ### COLLECTIVITES
 
 Vous avez besoin d’un projet d’intérêt général dans votre secteur pour accompagner votre développement, vous n’avez pas les moyens financiers pour réaliser ledit projet ?
