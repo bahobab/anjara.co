@@ -1,5 +1,5 @@
 ---
-name: services
+name: Services
 title: Services
 created: 2021-05-30T16:08:03.387Z
 ---
