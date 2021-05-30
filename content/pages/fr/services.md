@@ -3,11 +3,15 @@ name: Services
 title: SERVICES
 created: 2021-05-30T16:08:03.387Z
 ---
+![](/media/img/collectivites.jpg)
+
 ### COLLECTIVITES
 
 Vous avez besoin d’un projet d’intérêt général dans votre secteur pour accompagner votre développement, vous n’avez pas les moyens financiers pour réaliser ledit projet ?
 
 Contactez - nous pour organiser un rdv a votre convenance pour évoquer votre situation, d’avance merci.
+
+![](/media/img/communities4.jpg)
 
 ### PROFESSIONELS
 
@@ -28,3 +32,5 @@ R5​– Préparation des documents juridiques et promesses de vente ou bail
 R6​– Accompagnement à la signature des contrats, conventions et promesses de vente.
 
 R7​– Suivi du dossier en fonction de vos besoins jusqu’au démarrage de votre activé.
+
+![](/media/img/collectivites2.jpg)
