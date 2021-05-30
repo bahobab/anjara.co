@@ -72,5 +72,3 @@ collections:
       - { label: 'Title', name: title, widget: string, i18n: true }
       - { label: 'Publish Date', name: created, widget: datetime }
       - { label: 'Body', name: body, widget: markdown, i18n: true }
-  
-  - image: 
