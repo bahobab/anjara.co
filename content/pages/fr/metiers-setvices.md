@@ -3,7 +3,6 @@ name: Metiers
 title: METIERS
 created: 2021-05-30T01:15:43.966Z
 ---
-
 <div className="container">
 
 <div className="card">

@@ -3,7 +3,6 @@ name: Services
 title: SERVICES
 created: 2021-05-30T16:08:03.387Z
 ---
-
 <div className="services-img">
 
 ![](/media/img/collectivites.jpg)
