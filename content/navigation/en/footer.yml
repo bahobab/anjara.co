@@ -1,7 +1,10 @@
 title: Footer
 links:
-  - label: About us
-    page: about
-
+  - label: Services
+    page: metiers-setvices
   - label: info@mybrand.com
     href: mailto:info@mybrand.com
+  - label: Home
+    page: home
+  - label: Contact
+    page: contacts
