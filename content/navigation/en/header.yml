@@ -8,3 +8,6 @@ links:
     page: contacts
   - label: About us
     page: about
+  - label: Communities
+    href: ""
+    page: collectivites
