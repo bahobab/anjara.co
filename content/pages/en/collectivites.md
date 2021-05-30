@@ -4,7 +4,7 @@ created: 2021-05-30T01:26:23.217Z
 ---
 # Communities
 
-![communities](en/img/collectivites2.jpg "Communities")
+![communities](img/collectivites2.jpg "Communities")
 
 Do you need a project of general interest in your sector to support your development, you do not have the financial means to carry out the said project?
 
