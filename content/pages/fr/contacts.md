@@ -27,5 +27,3 @@ tel: ( + 261 ) 34 48 781 17
 ![](/media/img/pro4.jpg)
 
 </div>
-
-<!-- ![](/media/img/metier3.jpg) -->
