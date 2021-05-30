@@ -6,7 +6,7 @@ media_folder: cloudinary
 # public_folder: /media/img
 config:
   cloud_name: krikitue
-    api_key: 854326265149981
+  api_key: 854326265149981
 i18n:
   structure: multiple_folders
   locales: [fr, en]
