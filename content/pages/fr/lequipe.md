@@ -13,9 +13,13 @@ L’envie d’entreprendre autrement, en résonance avec de fortes valeurs humai
 
 Directrice des relations Commerciales
 
+![](/media/img/img_7984.png)
+
 ### Madame Hanitrinialasoa RAJOHNSON
 
 Directrice de développement
+
+![](/media/img/img-20210522-wa0002.jpg)
 
 ### Jean-Frederic Brun, fondateur et président
 
@@ -24,7 +28,5 @@ A créé l’entreprise avec passion et enthousiasme. Il a toujours eu à cœur 
 Son expertise sont les secteurs de l’ingénierie, d’étude, de conseil dans le montage d’opération immobilière et d’aménagement urbain.
 
 > *« Ayant été depuis quelques années bercée dans le monde politique , si on veut que Madagascar soit un Pays émergent , pratiquer la politique de développement est une condition sine qua non. Être au sein de Anjara Consulting est une aubaine pour moi car disons que c est une occasion pour moi de joindre l'utile à l'agréable : accompagner Madagascar dans son développement en pratiquant une politique de connexion et une politique saine »*
-
-### *Madame Hanitrinialasoa RAJOHNSON*
-
-*Directrice de développement*
+>
+> ![](/media/img/pro2.jpg)
