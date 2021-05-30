@@ -2,7 +2,7 @@
 title: Communities
 created: 2021-05-30T01:26:23.217Z
 ---
-Communities
+# Communities
 
 ![communities](img/collectivites2.jpg "Communities")
 

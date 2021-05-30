@@ -3,7 +3,7 @@ name: Collectivites
 title: Collectivites
 created: 2021-05-30T01:26:23.195Z
 ---
-Collectivités
+# Collectivités
 
 ![Collectivites](media/img/collectivites.jpg "Collectivites")
 
