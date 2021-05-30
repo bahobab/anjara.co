@@ -1,10 +1,13 @@
 title: Header
 links:
-  - label: A propos d'Anjara
-    page: about
-  - label: Contacts
-    page: contacts
   - label: Metiers & Services
     page: metiers-setvices
   - label: L 'Equipe
     page: lequipe
+  - label: Collectivites
+    href: ""
+    page: collectivites
+  - label: Contacts
+    page: contacts
+  - label: A propos d'Anjara
+    page: about
