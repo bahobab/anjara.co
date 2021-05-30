@@ -4,9 +4,19 @@ title: SERVICES
 created: 2021-05-30T16:08:03.387Z
 ---
 
-<div className="container">
+<div className="services-container container">
+
+<div className="services-img">
 
 ![](/media/img/collectivites.jpg)
+
+</div>
+
+<div className="card">
+
+![](/media/img/communities4.jpg)
+
+<div className="card-container">
 
 ### COLLECTIVITES
 
@@ -14,7 +24,15 @@ Vous avez besoin d’un projet d’intérêt général dans votre secteur pour a
 
 Contactez - nous pour organiser un rdv a votre convenance pour évoquer votre situation, d’avance merci.
 
-![](/media/img/communities4.jpg)
+</div>
+
+</div>
+
+<div className="card">
+
+![](/media/img/collectivites2.jpg)
+
+<div className="card-container">
 
 ### PROFESSIONELS
 
@@ -36,6 +54,8 @@ R6​– Accompagnement à la signature des contrats, conventions et promesses d
 
 R7​– Suivi du dossier en fonction de vos besoins jusqu’au démarrage de votre activé.
 
-![](/media/img/collectivites2.jpg)
+</div>
+
+</div>
 
 </div>
