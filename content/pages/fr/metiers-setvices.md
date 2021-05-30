@@ -6,6 +6,8 @@ created: 2021-05-30T01:15:43.966Z
 
 <div className="container">
 
+<div className="card">
+
 Le marché de Madagascar est en plein essor grâce a la politique de développement du gouvernement de Son Excellence le President de la République Monsieur Andry Rajoelina.
 
 Vous souhaitez sereinement travailler sur Madagascar,
@@ -27,5 +29,7 @@ Cet accompagnement sous forme d’offre globale permet aux professionnels et inv
 ![](/media/img/metier1.jpg)
 
 Pour ce faire, nous représentons les intérêts de chaque acteur intervenant dans le développement d’une opération car leur synergie est indispensable pour sa réussite.
+
+</div>
 
 </div>
