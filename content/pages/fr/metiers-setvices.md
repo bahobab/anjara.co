@@ -1,10 +1,8 @@
 ---
 name: Metiers
-title: Metiers
+title: METIERS
 created: 2021-05-30T01:15:43.966Z
 ---
-## METIERS
-
 Le marché de Madagascar est en plein essor grâce a la politique de développement du gouvernement de Son Excellence le President de la République Monsieur Andry Rajoelina.
 
 Vous souhaitez sereinement travailler sur Madagascar,
