@@ -11,6 +11,10 @@ created: 2020-10-02T16:40:01.429Z
 
 ![paysage de Mada](/media/img/madagascar.jpg)
 
+Conseil en ingénierie - Montage d’opération - Développement foncier
+
+
+
 Madagascar est un noble pays qui ne demande qu’une chose, qu’on l’accompagne sainement et respectueusement dans son développement économique et social avec comme maitre mot la transparence.
 
 Après plusieurs années dans le métier du développement foncier, du montage d’opérations de projet d’aménagement urbain et animé par une vraie passion pour le développement de Madagascar, la création d’ Anjara Consulting était une évidence.
@@ -20,8 +24,6 @@ Grâce à l’animation d’un réseau important de partenaires institutionnels 
 Historiquement implantée à Antananarivo, notre équipe œuvre désormais sur le tout le territoire Malgache.
 
 Notre méthode de travail a porté ses fruits car nous avons réussi a trouver de nombreux partenaires institutionnels et d’investisseurs étrangers pour nous accompagner dans leur projet de développement.
-
-
 
 > #### « Cela semble toujours impossible jusqu'a ce qu'on le fasse »
 >
