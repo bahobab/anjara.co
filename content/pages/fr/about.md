@@ -13,7 +13,7 @@ Madagascar, joyau de l’Océan indien au large des côtes du continent africain
 
 <div className="mada-ville">
 
-![carte de Madagascar](/media/img/madagascar.jpg)
+![carte de Madagascar](/media/img/madagascar-2020.jpg)
 
 </div>
 
@@ -25,7 +25,7 @@ Venant d'horizons divers : Afrique, Sud-Est asiatique (Indonésie), Proche-Orien
 
 <div className="about-collect">
 
-![paysage de Mada](/media/img/madagascar-2020.jpg)
+![paysage de Mada](/media/img/madagascar.jpg)
 
 </div>
 
