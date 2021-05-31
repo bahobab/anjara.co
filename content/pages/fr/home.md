@@ -7,12 +7,9 @@ created: 2020-10-02T16:40:01.429Z
 
 <div className="card">
 
-![Tana](/media/img/madagascar-2020.jpg)
-
-
 <div className="card-container">
 
-> « De savoir donner pour recevoir »
+> « Cela semble toujours impossible jusqu'a ce qu'on le fasse »
 
 Madagascar est un noble pays qui ne demande qu’une chose, qu’on l’accompagne sainement et respectueusement dans son développement économique et social avec comme maitre mot la transparence.
 

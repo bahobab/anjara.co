@@ -25,7 +25,7 @@ Venant d'horizons divers : Afrique, Sud-Est asiatique (Indonésie), Proche-Orien
 
 <div className="about-collect">
 
-![paysage de Mada](/media/img/collectivites4.jpg)
+![paysage de Mada](/media/img/madagascar-2020.jpg)
 
 </div>
 
@@ -48,6 +48,8 @@ Afin de relancer ses lacunes, le Président de la République favorise dans la p
 \- La modernisation de Madagascar
 \- L’autonomisation et la responsabilisation de nos territoires
 \- Le sport, une fierté nationale
+
+![paysage de Mada](/media/img/madagascar.jpg)
 
 Voilà pourquoi anjara-Consulting est votre parfait partenaire pour vous accompagner comme investisseurs sur le développement économique de la république de Madagascar
 
