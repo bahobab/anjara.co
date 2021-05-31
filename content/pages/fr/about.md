@@ -19,8 +19,6 @@ Madagascar, joyau de l’Océan indien au large des côtes du continent africain
 
 L'île possède une grande diversité en matière de faune et de flore, qu'on ne retrouve, pour la grande majorité, nulle part ailleurs : 80 à 90 % des espèces sont endémiques. L’île est ainsi un peu comme un laboratoire grandeur nature.
 
-![paysage de Mada](/media/img/madagascar.jpg)
-
 POPULATION COSMOPOLITE, CULTURE DIVERSE :
 
 Venant d'horizons divers : Afrique, Sud-Est asiatique (Indonésie), Proche-Orient, Europe… les 23 millions d’habitants forment la société pluriculturelle malgache actuelle. Cette diversité lui confère une richesse sur le plan culturel car elle compte 18 ethnies distinctes (foko) ou nations autochtones et parlant des langues austronésiennes. Les cultures et coutumes sont donc différentes selon les régions de cette ile.
