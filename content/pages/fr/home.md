@@ -12,7 +12,7 @@ created: 2020-10-02T16:40:01.429Z
 
 <div className="card-container">
 
-> Mandela quote
+> « De savoir donner pour recevoir »
 
 Madagascar est un noble pays qui ne demande qu’une chose, qu’on l’accompagne sainement et respectueusement dans son développement économique et social avec comme maitre mot la transparence.
 
