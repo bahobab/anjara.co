@@ -12,6 +12,9 @@ created: 2020-10-02T16:40:01.429Z
 ![paysage de Mada](/media/img/madagascar.jpg)
 
 > « Cela semble toujours impossible jusqu'a ce qu'on le fasse »
+> #### « Cela semble toujours impossible jusqu'a ce qu'on le fasse »
+>
+> ###### \- *Nelson Mandela*
 
 Madagascar est un noble pays qui ne demande qu’une chose, qu’on l’accompagne sainement et respectueusement dans son développement économique et social avec comme maitre mot la transparence.
 
