@@ -44,6 +44,9 @@ Directrice de développement
 
 </div>
 
+> *« Ayant été depuis quelques années bercée dans le monde politique , si on veut que Madagascar soit un Pays émergent , pratiquer la politique de développement est une condition sine qua non. Être au sein de Anjara Consulting est une aubaine pour moi car disons que c est une occasion pour moi de joindre l'utile à l'agréable : accompagner Madagascar dans son développement en pratiquant une politique de connexion et une politique saine »*
+>
+
 </div>
 
 <div className="card">
@@ -60,9 +63,7 @@ A créé l’entreprise avec passion et enthousiasme. Il a toujours eu à cœur 
 
 Son expertise sont les secteurs de l’ingénierie, d’étude, de conseil dans le montage d’opération immobilière et d’aménagement urbain.
 
-> *« Ayant été depuis quelques années bercée dans le monde politique , si on veut que Madagascar soit un Pays émergent , pratiquer la politique de développement est une condition sine qua non. Être au sein de Anjara Consulting est une aubaine pour moi car disons que c est une occasion pour moi de joindre l'utile à l'agréable : accompagner Madagascar dans son développement en pratiquant une politique de connexion et une politique saine »*
->
-> ![](/media/img/metier2.jpg)
+![](/media/img/metier2.jpg)
 
 </div>
 
