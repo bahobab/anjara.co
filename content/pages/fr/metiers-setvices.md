@@ -7,7 +7,7 @@ created: 2021-05-30T01:15:43.966Z
 
 <div className="card">
 
-<div className="card-container">
+<div className="card-container home-body">
 
 Le marché de Madagascar est en plein essor grâce a la politique de développement du gouvernement de Son Excellence le President de la République Monsieur Andry Rajoelina.
 
