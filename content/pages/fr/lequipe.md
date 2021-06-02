@@ -20,10 +20,12 @@ created: 2021-05-30T01:06:40.129Z
       <div className="heading-center">
 
   ### Madame Hanta RANAIVOSON
-        Directrice des relations Commerciales
+
+  Directrice des relations Commerciales
+
   </div>
       ![Mme Anta](/media/img/img_7984.png)
-    </div>
+  </div>
   </div>
 
   <div className="card">
@@ -33,9 +35,16 @@ created: 2021-05-30T01:06:40.129Z
   <div className="heading-center">
 
   ### Madame Hanitrinialasoa RAJOHNSON
+
+  Directrice de Development
       
   </div>
-   
+  </div>
+  </div>
+
+  <div className="card">
+    <div className="card-container">
+ 
    <div className="heading-center">
 
   ### Jean-Frederic Brun, fondateur et président
@@ -46,8 +55,5 @@ created: 2021-05-30T01:06:40.129Z
     ![](/media/img/metier2.jpg)
   </div>
   </div>
-  </div>
 </div>
-
-  </div>
 </div>
