@@ -30,14 +30,6 @@ created: 2021-05-30T01:06:40.129Z
 
   <div className="card">
     <div className="card-container">
-      <div className="heading-center">
-      ### Madame Hanitrinialasoa RAJOHNSON
-      Directrice de développement
-      </div>
-    </div>
-  </div>
-  <div className="card">
-    <div className="card-container">
       ![](/media/img/metier2.jpg)
    
    <div className="heading-center">
