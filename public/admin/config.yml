@@ -3,10 +3,6 @@ backend:
   branch: main
 media_folder: public/media
 public_folder: /media/img
-# media_folder: cloudinary
-# config:
-#   cloud_name: krikitue
-#   api_key: 854326265149981
 i18n:
   structure: multiple_folders
   locales: [fr, en]

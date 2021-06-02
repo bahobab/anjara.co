@@ -16,7 +16,7 @@ La cohésion interne et le bien-être de l’équipe sont des objectifs chers à
 L’envie d’entreprendre autrement, en résonance avec de fortes valeurs humaines, sociales et environnementales, est notre moteur pour faire vivre notre projet d’entreprise, véritablement passionnant.
 
 
-<div className="equipe">
+<div className="heading-center">
 
 ### Madame Hanta RANAIVOSON
 Directrice des relations Commerciales
@@ -33,7 +33,7 @@ Directrice des relations Commerciales
 
 <div className="card-container">
 
-<div className="equipe">
+<div className="heading-center">
 
 ### Madame Hanitrinialasoa RAJOHNSON
 Directrice de développement
