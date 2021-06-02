@@ -49,12 +49,8 @@ created: 2021-05-30T01:06:40.129Z
   <div className="card">
     <div className="card-container">
       ![](/media/img/metier2.jpg)
+
       
-      <div className="heading-center">
-
-      ### Jean-Frederic Brun, fondateur et président
-
-      </div>
       A créé l’entreprise avec passion et enthousiasme. Il a toujours eu à cœur de donner du sens à son travail et de chercher des solutions responsables, innovantes et compétitives.
       Son expertise sont les secteurs de l’ingénierie, d’étude, de conseil dans le montage d’opération immobilière et d’aménagement urbain.
 
