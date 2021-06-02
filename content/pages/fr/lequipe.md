@@ -18,6 +18,9 @@ L’envie d’entreprendre autrement, en résonance avec de fortes valeurs humai
 <div className="equipe-wrapper">
 <div className="card equipe">
 <div className="card-container">
+
+![Mme Anta](/media/img/img_7984.png)
+
 <div className="heading-center">
 
 ### Madame Hanta RANAIVOSON
@@ -25,9 +28,6 @@ L’envie d’entreprendre autrement, en résonance avec de fortes valeurs humai
 Directrice des relations Commerciales
 
 </div>
-
-![Mme Anta](/media/img/img_7984.png)
-
 </div>
 </div>
 

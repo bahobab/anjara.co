@@ -100,7 +100,7 @@ a {
 // }
 
 .equipe-wrapper {
-  max-width: 100vw;
+  max-width: 100%;
   display: flex;
   flex-direction: column;
 }
@@ -120,7 +120,7 @@ a {
   }
 
   .equipe {
-    // width: 33.333%;
+    width: 33.333%;
     // flex: auto;
   }
 }
