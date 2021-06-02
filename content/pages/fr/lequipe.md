@@ -5,9 +5,6 @@ created: 2021-05-30T01:06:40.129Z
 ---
 <div className="container">
   <div className="card">
-    
-  </div>
-</div>
 
 <div className="card-container">
   <div className="main-body">
@@ -38,5 +35,8 @@ created: 2021-05-30T01:06:40.129Z
     Son expertise sont les secteurs de l’ingénierie, d’étude, de conseil dans le montage d’opération immobilière et d’aménagement urbain.
   </div>
   </div>
+  </div>
+</div>
+
   </div>
 </div>
