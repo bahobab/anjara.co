@@ -81,7 +81,7 @@ a {
 
 // services 
 // services-container
-.services-img img, .equipe-wrapper img {
+.services-img img {
   width: 100%;
 }
 
@@ -105,9 +105,17 @@ a {
   flex-direction: column;
 }
 
+.equipe img {
+  width: 100%;
+}
+
 @media screen and (min-width: 800px) {
   .equipe-wrapper {
   flex-direction: row;
   flex-wrap: wrap;
+  }
+
+  .equipe {
+    flex: auto;
   }
 }

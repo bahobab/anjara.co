@@ -16,7 +16,7 @@ created: 2021-05-30T01:06:40.129Z
   </div>
 
   <div className="equipe-wrapper">
-  <div className="card">
+  <div className="card equipe">
     <div className="card-container">
       <div className="heading-center">
 
@@ -31,7 +31,7 @@ created: 2021-05-30T01:06:40.129Z
   </div>
   </div>
 
-  <div className="card">
+  <div className="card equipe">
     <div className="card-container">
 
   ![](/media/img/img-20210522-wa0002.jpg)
@@ -45,7 +45,7 @@ created: 2021-05-30T01:06:40.129Z
   </div>
   </div>
   </div>
-  <div className="card">
+  <div className="card equipe">
     <div className="card-container">
  
    <div className="heading-center">
