@@ -3,7 +3,7 @@ name: L'Equipe
 title: L’équipe d’Anjara-Consulting
 created: 2021-05-30T01:06:40.129Z
 ---
-<div className="container">
+<div className="container ">
   <div className="card">
 
 <div className="card-container">
@@ -15,6 +15,7 @@ created: 2021-05-30T01:06:40.129Z
     L’envie d’entreprendre autrement, en résonance avec de fortes valeurs humaines, sociales et environnementales, est notre moteur pour faire vivre notre projet d’entreprise, véritablement passionnant.
   </div>
 
+  <div className="equipe-wrapper">
   <div className="card">
     <div className="card-container">
       <div className="heading-center">
@@ -57,6 +58,7 @@ created: 2021-05-30T01:06:40.129Z
 
   ![](/media/img/metier2.jpg)
 
+  </div>
   </div>
   </div>
 </div>

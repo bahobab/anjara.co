@@ -94,3 +94,20 @@ a {
 .main-body {
   text-align: justify;
 }
+
+.equipe {
+  width: 100vw;
+}
+
+.equipe-wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (min-width: 800px) {
+  .equipe-wrapper {
+  flex-direction: row;
+  flex-wrap: wrap;
+  }
+}
