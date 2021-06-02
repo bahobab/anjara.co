@@ -50,7 +50,9 @@ Directrice de Development
 <div className="card-container">
 <div className="heading-center">
 
-### Jean-Frederic Brun, fondateur et président
+### Jean-Frederic Brun
+
+Fondateur et président
 
 </div>
 A créé l’entreprise avec passion et enthousiasme. Il a toujours eu à cœur de donner du sens à son travail et de chercher des solutions responsables, innovantes et compétitives.
