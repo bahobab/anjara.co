@@ -21,10 +21,8 @@ created: 2021-05-30T01:06:40.129Z
   <div className="card">
     <div className="card-container">
       <div className="heading-center">
-
         ### Madame Hanta RANAIVOSON
         Directrice des relations Commerciales
-
       </div>
       ![Mme Anta](/media/img/img_7984.png)
     </div>
@@ -33,16 +31,14 @@ created: 2021-05-30T01:06:40.129Z
   <div className="card">
     <div className="card-container">
       <div className="heading-center">
-
       ### Madame Hanitrinialasoa RAJOHNSON
       Directrice de développement
-
       </div>
       ![](/media/img/img-20210522-wa0002.jpg)
 
-      > *« Ayant été depuis quelques années bercée dans le monde politique , si on veut que Madagascar soit un Pays émergent , pratiquer la politique de développement est une condition sine qua non. Être au sein de Anjara Consulting est une aubaine pour moi car disons que c est une occasion pour moi de joindre l'utile à l'agréable : accompagner Madagascar dans son développement en pratiquant une politique de connexion et une politique saine »*
+      *« Ayant été depuis quelques années bercée dans le monde politique , si on veut que Madagascar soit un Pays émergent , pratiquer la politique de développement est une condition sine qua non. Être au sein de Anjara Consulting est une aubaine pour moi car disons que c est une occasion pour moi de joindre l'utile à l'agréable : accompagner Madagascar dans son développement en pratiquant une politique de connexion et une politique saine »*
+      
     </div>
   </div>
-</div>
 </div>
   
