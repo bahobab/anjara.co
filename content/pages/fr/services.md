@@ -18,8 +18,7 @@ created: 2021-05-30T16:08:03.387Z
 
 ![](/media/img/communities4.jpg)
 
-<div className="card-container home-body">
-
+<div className="card-container main-body">
 
 Vous avez besoin d’un projet d’intérêt général dans votre secteur pour accompagner votre développement, vous n’avez pas les moyens financiers pour réaliser ledit projet?
 
