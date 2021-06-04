@@ -9,9 +9,7 @@ created: 2021-05-30T16:08:03.387Z
 
 </div>
 
-<div className="services-container container">
-
-
+<div className="container">
 <div className="card">
 
 ### COLLECTIVITES
@@ -34,7 +32,7 @@ Contactez - nous pour organiser un rdv a votre convenance pour évoquer votre si
 
 ![](/media/img/collectivites2.jpg)
 
-<div className="card-container">
+<div className="card-container main-body">
 
 
 Vous êtes investisseurs dans la promotion immobilière, aménageurs, constructeurs, bâtiment, l’éner​gie, l’assainissement, etc..
