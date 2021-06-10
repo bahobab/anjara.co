@@ -15,17 +15,17 @@ Nous sommes à votre disposition si vous avez besoin d’un conseil
 
 N’hésitez pas à nous contacter !
 
-Anjara-Consulting
+### Anjara-Consulting
 
 Hanitrinialasoa RAJOHNSON - Directrice de développement
 
 Antsakaviro lot II M 92 . Antananarivo -101 Madagascar
 
-[www.anjara-consulting.com](http://www.anjara-consulting.com/)
+#### [www.anjara-consulting.com](http://www.anjara-consulting.com/)
 
-tel: ( + 261 ) 34 48 781 17
+#### tel: ( + 261 ) 34 48 781 17
 
-[contact.anjaraconsulting@gmail.com](mailto:contact.anjaraconsulting@gmail.com)
+#### [contact.anjaraconsulting@gmail.com](mailto:contact.anjaraconsulting@gmail.com)
 
 ![](/media/img/pro4.jpg)
 
