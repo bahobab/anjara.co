@@ -37,6 +37,8 @@ Madagascar, comme tout Pays, a lui aussi été gravement atteint des conséquenc
 
 Afin de relancer ses lacunes, le Président de la République favorise dans la politique le partenariat 3 P ( Partenariat Privé Public ). Anjara Consulting justement entre dans ce paramètre dans l'accompagnement de Madagascar dans l'identification de partenaires Étrangers dans le but de concrétiser les 13 velirano du Président de la République qui sont:
 
+<div className="criteres-13">
+
 - La paix et la sécurité, une prioritê
 - L’énergie et l’eau pour tous
 - La lutte contre la corruption et une justice équitable
@@ -51,6 +53,7 @@ Afin de relancer ses lacunes, le Président de la République favorise dans la p
 - L’autonomisation et la responsabilisation de nos territoires
 - Le sport, une fierté nationale
 
+</div>
 
 Voilà pourquoi anjara-Consulting est votre parfait partenaire pour vous accompagner comme investisseurs sur le développement économique de la république de Madagascar.
 
