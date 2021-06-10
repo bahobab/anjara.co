@@ -31,6 +31,12 @@ Cet accompagnement sous forme d’offre globale permet aux professionnels et inv
 
 Pour ce faire, nous représentons les intérêts de chaque acteur intervenant dans le développement d’une opération car leur synergie est indispensable pour sa réussite.
 
+<div className="main-body__anjara">
+
+![paysage de Mada](/media/img/anjara.jpg)
+
+</div>
+
 </div>
 
 </div>

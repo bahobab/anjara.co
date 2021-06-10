@@ -53,6 +53,12 @@ R6​– Accompagnement à la signature des contrats, conventions et promesses d
 
 R7​– Suivi du dossier en fonction de vos besoins jusqu’au démarrage de votre activé
 
+<div className="main-body__anjara">
+
+![paysage de Mada](/media/img/anjara.jpg)
+
+</div>
+
 </div>
 
 </div>
