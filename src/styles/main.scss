@@ -103,7 +103,7 @@ ul li {
 
 /* Add some padding inside the card container */
 .card-container {
-  padding: 2px 15px;
+  padding: 15px 15px;
   max-width: 100%;
 }
 
@@ -112,6 +112,7 @@ ul li {
 }
 .card img {
   width: 100%;
+  margin: 5px 0;
   // padding: 0 10px;
 }
 
@@ -150,6 +151,8 @@ ul li {
 
 .heading-center {
   text-align: center;
+  background: $color-background-heading;
+  color: $color-heading-inverse;
 }
 
 .main-body {
