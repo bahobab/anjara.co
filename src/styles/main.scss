@@ -41,12 +41,12 @@ h3, h4 {
 .landing {
   height: 75vh;
   margin-top: 10px;
-  padding-top: 1.5rem;
+  padding-top: 2.5rem;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: start;
-  background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255,255,255, 0.5)), url('/media/img/madagascar.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0,0,0, 0.15)), url('/media/img/madagascar.jpg');
   background-position: center;
   background-size: cover;
 
