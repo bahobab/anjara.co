@@ -31,6 +31,10 @@ a {
   color: $color-link;
 }
 
+h1 {
+  margin-bottom: 10px;
+}
+
 h3, h4 {
   margin: 10px 0;
 }
@@ -44,7 +48,6 @@ ul li {
 // ![paysage de Mada](/media/img/madagascar.jpg)
 .landing {
   height: 75vh;
-  margin-top: 10px;
   padding: 7px;
   padding-top: 2.5rem;
   display: flex;
