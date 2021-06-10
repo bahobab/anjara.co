@@ -8,13 +8,8 @@ created: 2020-10-02T16:40:01.429Z
 <div className="card">
 
 <div className="card-container">
-<div className="landing">
 
-> #### « Cela semble toujours impossible jusqu'a ce qu'on le fasse »
->
-> ###### \- *Nelson Mandela*
-
-</div>
+![paysage de Mada](/media/img/madagascar.jpg)
 
 <div className="heading-center">
 
@@ -34,6 +29,10 @@ Historiquement implantée à Antananarivo, notre équipe œuvre désormais sur l
 Notre méthode de travail a porté ses fruits car nous avons réussi a trouver de nombreux partenaires institutionnels et d’investisseurs étrangers pour nous accompagner dans leur projet de développement.
 
 </div>
+
+> #### « Cela semble toujours impossible jusqu'a ce qu'on le fasse »
+>
+> ###### \- *Nelson Mandela*
 
 </div>
 

@@ -24,6 +24,13 @@ a {
   color: $color-link;
 }
 
+// landing
+
+// ![paysage de Mada](/media/img/madagascar.jpg)
+.landing {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.247), rgba(255,255,255, 0.2)),usr('/media/img/madagascar.jpg');
+}
+
 
 // --------------- card ---------------------
 
