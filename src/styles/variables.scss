@@ -4,12 +4,13 @@ $font-face-base: Arial, sans-serif;
 // Base palette
 $color-white: #fff;
 $color-black: #000;
+$color-dark-gray: #444;
 $color-brand: #f42561;
 $color-gray-lighter: #f0f0f0;
 $color-gray-lightest: #f5f5f5;
 
 // Semantic colors
-$color-text: $color-black;
+$color-text: $color-dark-gray;
 $color-ruler: $color-gray-lighter;
 $color-page: $color-white;
 $color-page-alternate: $color-gray-lightest;
