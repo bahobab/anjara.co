@@ -6,7 +6,6 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
-          <link rel="icon" href="/media/img/favicon.jpg" sizes="192x192">
         </Head>
 
         <body>
