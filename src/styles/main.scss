@@ -83,6 +83,8 @@ ul li {
 // --- about 
 .main-body ul {
   margin: 10px auto;
+  background: rgba(0,0,0,0.2);
+  border-radius: 5px;
 }
 
 
@@ -150,7 +152,8 @@ ul li {
 // -------------- equipe ----------------
 
 .heading-center {
-  padding: 7px 0;
+  padding: 5px 0;
+  margin: 5px 0;
   text-align: center;
   background: $color-background-heading;
   color: $color-heading-inverse;
