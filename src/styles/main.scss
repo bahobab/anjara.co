@@ -36,8 +36,15 @@ a {
 // ![paysage de Mada](/media/img/madagascar.jpg)
 .landing {
   height: 90vh;
+  display: flex;
+  align-items: center;
   background-image: linear-gradient(rgba(255, 255, 255, 0.247), rgba(255,255,255, 0.2)), url('/media/img/madagascar.jpg');
   background-position: bottom;
+}
+
+.landing-heading--primary {
+  text-align: center;
+  text-transform: uppercase;
 }
 
 
