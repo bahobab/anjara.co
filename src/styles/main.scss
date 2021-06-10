@@ -41,6 +41,7 @@ h3, h4 {
 .landing {
   height: 75vh;
   margin-top: 10px;
+  padding: 7px;
   padding-top: 2.5rem;
   display: flex;
   flex-direction: column;
@@ -50,14 +51,17 @@ h3, h4 {
   background-position: center;
   background-size: cover;
 
-  padding: 7px;
-  // background: rgba(0,0,0, 0.15);
   border-radius: 7px;
+}
+
+.landing__text {
+  background: rgba(0,0,0,0.1);
 }
 
 .landing-heading--primary {
   color: orange;
   text-transform: uppercase;
+  text-shadow: 1px 1px 2px black;
 }
 
 .landing__quote {
