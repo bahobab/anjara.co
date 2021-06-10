@@ -144,6 +144,7 @@ ul li {
 .mada-carte img {
   width: 50%;
   margin: 0 auto;
+  border-radius: 5px;
 }
 
 
@@ -151,6 +152,7 @@ ul li {
 // services-container
 .services-img img {
   width: 100%;
+  border-radius: 5px;
 }
 
 // -------------- equipe ----------------
@@ -196,9 +198,10 @@ ul li {
 
 .equipe img {
   width: 100%;
+  border-radius: 5px;
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 900px) {
 
   // card 
   .card-container {
