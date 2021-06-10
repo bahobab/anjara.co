@@ -49,6 +49,10 @@ h3, h4 {
   background-image: linear-gradient(rgba(255, 255, 255, 0.247), rgba(255,255,255, 0.2)), url('/media/img/madagascar.jpg');
   background-position: center;
   background-size: cover;
+
+  padding: 7px;
+  background: rgba(0,0,0, 0.15);
+  border-radius: 7px;
 }
 
 .landing-heading--primary {
@@ -57,11 +61,10 @@ h3, h4 {
 }
 
 .landing__quote {
-  text-align: center;
+  text-align: left;
   display: inline-block;
   margin: 0 auto;
   margin-top: 10px;
-  background: rgba(0,0,0, 0.2);
 }
 
 
