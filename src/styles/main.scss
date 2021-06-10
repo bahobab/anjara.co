@@ -224,6 +224,12 @@ ul li {
     width: 33.333%;
     // flex: auto;
   }
+
+  .contact {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 }
 
 .text-justify {

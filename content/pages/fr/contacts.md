@@ -9,7 +9,7 @@ created: 2020-10-02T22:37:57.850Z
 
 ![](/media/img/communities3.jpg)
 
-<div className="card-container">
+<div className="card-container contact">
 <p>
 
 Nous sommes à votre disposition si vous avez besoin d’un conseil
