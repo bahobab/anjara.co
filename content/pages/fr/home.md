@@ -12,9 +12,13 @@ created: 2020-10-02T16:40:01.429Z
 
 <h1 className="landing-heading--primary">Anjara Consulting</h1>
 
+<div className="landing__quote">
+
 > #### « Cela semble toujours impossible jusqu'a ce qu'on le fasse »
 >
 > ###### \- *Nelson Mandela*
+
+</div>
 
 </div>
 
