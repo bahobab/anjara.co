@@ -35,7 +35,11 @@ Historiquement implantée à Antananarivo, notre équipe œuvre désormais sur l
 
 Notre méthode de travail a porté ses fruits car nous avons réussi a trouver de nombreux partenaires institutionnels et d’investisseurs étrangers pour nous accompagner dans leur projet de développement.
 
+<div className="main-body__anjara">
+
 ![paysage de Mada](/media/img/anjara.jpg)
+
+</div>
 
 </div>
 
