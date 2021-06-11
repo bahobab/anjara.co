@@ -33,11 +33,12 @@ Antsakaviro lot II M 92 . Antananarivo - 101 Madagascar
 
 </div>
 
-</div>
 
 <div className="main-body__anjara">
 
 ![paysage de Mada](/media/img/anjara.jpg)
+
+</div>
 
 </div>
 
