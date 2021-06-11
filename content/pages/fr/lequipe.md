@@ -71,12 +71,12 @@ Son expertise sont les secteurs de l’ingénierie, d’étude, de conseil dans 
 </div>
 </div>
 </div>
-</div>
 
 <div className="main-body__anjara">
 
 ![paysage de Mada](/media/img/anjara.jpg)
 
+</div>
 </div>
 
 </div>
