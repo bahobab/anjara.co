@@ -19,9 +19,8 @@ N’hésitez pas à nous contacter !
 
 <hr className="ruler"/>
 
-##### Hanitrinialasoa RAJOHNSON
-
- - Directrice de développement
+#### Hanitrinialasoa RAJOHNSON
+Directrice de développement
 <br />
 Antsakaviro lot II M 92 . Antananarivo - 101 Madagascar
 
