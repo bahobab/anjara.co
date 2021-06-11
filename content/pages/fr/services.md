@@ -25,6 +25,8 @@ Contactez - nous pour organiser un rdv a votre convenance pour évoquer votre si
 
 </div>
 
+![](/media/img/metier3.jpg)
+
 </div>
 
 
