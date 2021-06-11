@@ -6,7 +6,5 @@ links:
     page: metiers-setvices
   - label: SERVICES
     page: services
-  - label: @email
-    href: mailto:contact.anjaraconsulting@gmail.com
-  - label: facebook
-    href: https://www.facebook.com/104312498543346/posts/104313358543260/
+  - label: CONTACTS
+    href: contacts
