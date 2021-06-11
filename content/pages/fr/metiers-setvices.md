@@ -31,13 +31,14 @@ la vocation d’Anjara-Consulting est de donner naissance aux projets en accompa
 
 <div className="card-container">
 
+![](/media/img/pro2.jpg)
+
 Nos compétences dans le conseil en tant qu’assistant maitrise d’ouvrage, du montage d’opération d’aménagement urbain ou de projet en matière d’énergie et de l’ingénierie est un atoutcohérent pour l’accompagn​ement de votre futur projet.
 
 Nous sommes missionnés par des services decertaines collectivités, régions et ministères pour réaliser des projet d,interets généraux a travers la mise a disposition de plusieurs fonciers appartenant aux dites institutions.
 
 Cette démarchent, notamment vis à vis du cadre administratif et réglementaire pour la maitrise foncière des terrains, de sa valorisation et del’obtention des autorisations, est intéressant et cohérent pour l’investisseur car il sera rassuré pour la mise en place de futur projet sur le territoire Malgache.
 
-![](/media/img/pro2.jpg)
 
 </div>
 </div>
