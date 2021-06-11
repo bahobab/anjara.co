@@ -211,10 +211,15 @@ ul li {
   & p.contact-text {
     text-align: center;
     // padding: 7px;
+
+    & h3 {
+      color: orangered;
+    }
   }
 
   & hr.ruler {
     width: 55vw;
+    margin: 0 auto;
   }
 
 }
