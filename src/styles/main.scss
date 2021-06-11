@@ -201,6 +201,7 @@ ul li {
   border-radius: 5px;
 }
 
+// ------------ contact
 .contact {
   display: flex;
   flex-direction: column;
@@ -210,6 +211,10 @@ ul li {
   & p.contact-text {
     text-align: center;
     // padding: 7px;
+  }
+
+  & hr.ruler {
+    width: 55vw;
   }
 
 }
