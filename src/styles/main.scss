@@ -243,6 +243,11 @@ ul li {
 
   .services {
     flex-direction: row;
+    align-items: flex-start;
+
+    &.card {
+      flex: 1;
+    }
   }
 
   .equipe-wrapper {
