@@ -10,7 +10,7 @@ created: 2020-10-02T22:37:57.850Z
 ![](/media/img/communities3.jpg)
 
 <div className="card-container contact">
-<p>
+<p className="contact-text">
 
 Nous sommes à votre disposition si vous avez besoin d’un conseil
 N’hésitez pas à nous contacter !
@@ -32,6 +32,12 @@ Antsakaviro lot II M 92 . Antananarivo - 101 Madagascar
 ![](/media/img/pro4.jpg)
 
 </div>
+
+</div>
+
+<div className="main-body__anjara">
+
+![paysage de Mada](/media/img/anjara.jpg)
 
 </div>
 

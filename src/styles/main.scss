@@ -230,7 +230,7 @@ ul li {
     align-items: center;
     justify-content: center;
 
-    & p {
+    &.contact-text {
       padding: 7px;
       border: 1px solid $color-gray-lighter;
     }
