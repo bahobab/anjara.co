@@ -7,4 +7,4 @@ links:
   - label: SERVICES
     page: services
   - label: CONTACTS
-    href: contacts
+    page: contacts
