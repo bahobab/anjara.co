@@ -26,6 +26,7 @@ Contactez - nous pour organiser un rdv a votre convenance pour évoquer votre si
 
 </div>
 
+
 <div className="card">
 
 ### PROFESSIONELS
@@ -53,11 +54,11 @@ R6​– Accompagnement à la signature des contrats, conventions et promesses d
 
 R7​– Suivi du dossier en fonction de vos besoins jusqu’au démarrage de votre activé
 
+</div>
+
 <div className="main-body__anjara">
 
 ![paysage de Mada](/media/img/anjara.jpg)
-
-</div>
 
 </div>
 
