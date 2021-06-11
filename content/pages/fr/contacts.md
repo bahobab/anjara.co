@@ -15,9 +15,12 @@ created: 2020-10-02T22:37:57.850Z
 Nous sommes à votre disposition si vous avez besoin d’un conseil
 N’hésitez pas à nous contacter !
 
-### Anjara-Consulting
+### ANJARA-CONSULTING
 
-Hanitrinialasoa RAJOHNSON - Directrice de développement
+#### Hanitrinialasoa RAJOHNSON
+
+<br />
+Directrice de développement
 <br />
 Antsakaviro lot II M 92 . Antananarivo - 101 Madagascar
 
