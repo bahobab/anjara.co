@@ -273,12 +273,12 @@ ul li {
     
   }
 
-  .about-wrapper {
+  div.about-wrapper {
     flex-direction: row;
     flex-wrap: wrap;
   }
 
-  .about {
+  div.about {
     width: 50%;
     // flex: auto;
   }
@@ -289,8 +289,8 @@ ul li {
   }
 
   .equipe-wrapper {
-  flex-direction: row;
-  flex-wrap: wrap;
+    flex-direction: row;
+    flex-wrap: wrap;
   }
 
   .equipe {
