@@ -5,6 +5,8 @@ created: 2020-10-02T22:37:57.850Z
 ---
 <div className="container">
 
+<div className="card">
+
 <div className="about-wrapper">
 
 <div className="card about">
@@ -69,6 +71,9 @@ Voilà pourquoi anjara-Consulting est votre parfait partenaire pour vous accompa
 <div className="main-body__anjara">
 
 ![paysage de Mada](/media/img/anjara.jpg)
+
+</div>
+
 
 </div>
 
