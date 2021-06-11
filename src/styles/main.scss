@@ -208,17 +208,17 @@ ul li {
 }
 
 // -----------  equipe
-.equipe-wrapper {
+.equipe-wrapper, .metier-wrapper {
   max-width: 100%;
   display: flex;
   flex-direction: column;
 }
 
-.equipe {
+.equipe, .metier {
   width: 100%;
 }
 
-.equipe img {
+.equipe img, .metier img {
   width: 100%;
   border-radius: 5px;
 }
@@ -288,12 +288,12 @@ ul li {
     align-items: flex-start;
   }
 
-  .equipe-wrapper {
+  .equipe-wrapper, .metier-wrapper {
     flex-direction: row;
     flex-wrap: wrap;
   }
 
-  .equipe {
+  .equipe, .metier {
     width: 33.333%;
     // flex: auto;
   }
