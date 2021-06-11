@@ -59,15 +59,16 @@ Afin de relancer ses lacunes, le Président de la République favorise dans la p
 
 Voilà pourquoi anjara-Consulting est votre parfait partenaire pour vous accompagner comme investisseurs sur le développement économique de la république de Madagascar.
 
+
+</div>
+
+</div>
+
+</div>
+
 <div className="main-body__anjara">
 
 ![paysage de Mada](/media/img/anjara.jpg)
-
-</div>
-
-</div>
-
-</div>
 
 </div>
 
