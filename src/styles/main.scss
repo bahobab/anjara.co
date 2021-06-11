@@ -182,9 +182,12 @@ ul li {
   }
 }
 
-// .equipe {
-//   max-width: 100vw;
-// }
+.services {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
 
 .equipe-wrapper {
   max-width: 100%;
@@ -236,6 +239,10 @@ ul li {
     font-size: 2.3rem;
     letter-spacing: 2px;
     
+  }
+
+  .services {
+    flex-direction: row;
   }
 
   .equipe-wrapper {
