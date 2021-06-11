@@ -201,6 +201,19 @@ ul li {
   border-radius: 5px;
 }
 
+.contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  &.contact-text {
+    text-align: center;
+    // padding: 7px;
+  }
+
+}
+
 @media screen and (min-width: 900px) {
 
   // card 
@@ -227,13 +240,13 @@ ul li {
 
   .contact {
     display: flex;
-    align-items: center;
+    flex-direction: row;
     justify-content: space-between;
+    border: 1px solid $color-gray-lighter;
 
-    &.contact-text {
-      padding: 7px;
-      border: 1px solid $color-gray-lighter;
-    }
+    // &.contact-text {
+    //   padding: 7px;
+    // }
   }
 }
 
