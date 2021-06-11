@@ -134,7 +134,7 @@ ul li {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #cacaca;
+  // background-color: #cacaca;
 }
 
 .mada-ville img, .about-collect img {
@@ -245,17 +245,24 @@ ul li {
     flex-direction: row;
     align-items: flex-start;
 
-    &:first-child {
-      margin-right: 10px;
-    }
+    // &:first-child {
+    //   margin-right: 10px;
+    // }
 
-    &:last-child {
-      margin-left: 10px;
-    }
+    // &:last-child {
+    //   margin-left: 10px;
+    // }
 
-    &.card {
+    &.left &.right {
       width: 50%;
+    }
 
+    &.left {
+      margin-right: 15px;
+    }
+
+    &.right {
+      margin-left: 15px;
     }
   }
 

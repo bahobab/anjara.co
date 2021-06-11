@@ -11,7 +11,7 @@ created: 2021-05-30T16:08:03.387Z
 
 <div className="container">
 <div className="services">
-<div className="card">
+<div className="card left">
 
 ### COLLECTIVITES
 
@@ -30,7 +30,7 @@ Contactez - nous pour organiser un rdv a votre convenance pour évoquer votre si
 </div>
 
 
-<div className="card">
+<div className="card right">
 
 ### PROFESSIONELS
 
