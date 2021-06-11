@@ -25,7 +25,7 @@ Contactez - nous pour organiser un rdv a votre convenance pour évoquer votre si
 
 </div>
 
-![](/media/img/metier3.jpg)
+![](/media/img/collectivites2.jpg)
 
 </div>
 
@@ -34,7 +34,7 @@ Contactez - nous pour organiser un rdv a votre convenance pour évoquer votre si
 
 ### PROFESSIONELS
 
-![](/media/img/collectivites2.jpg)
+![](/media/img/metier3.jpg)
 
 <div className="card-container main-body">
 
