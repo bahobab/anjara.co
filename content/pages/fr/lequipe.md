@@ -6,7 +6,6 @@ created: 2021-05-30T01:06:40.129Z
 <div className="container ">
 <div className="card">
 
-<div className="card-container">
 <div className="main-body ">
 
 L’énergie contagieuse et l’esprit positif qui animent l’entreprise sont palpables au sein d’Anjara-Consulting grâce à Madame Hanitrinialasoa RAJOHNSON, Directrice de développement et, Madame Hanta RANAIVOSON, Directrice des relations Commerciales, de manière bienveillante sur la confiance et le dialogue.
@@ -77,6 +76,4 @@ Son expertise sont les secteurs de l’ingénierie, d’étude, de conseil dans 
 ![paysage de Mada](/media/img/anjara.jpg)
 
 </div>
-</div>
-
 </div>

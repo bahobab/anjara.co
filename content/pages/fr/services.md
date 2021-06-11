@@ -3,13 +3,15 @@ name: Services
 title: SERVICES
 created: 2021-05-30T16:08:03.387Z
 ---
+<div className="container">
+<div className="card">
+
 <div className="services-img">
 
 ![](/media/img/collectivites.jpg)
 
 </div>
 
-<div className="container">
 <div className="services">
 <div className="card left">
 
@@ -66,6 +68,8 @@ R7​– Suivi du dossier en fonction de vos besoins jusqu’au démarrage de vo
 <div className="main-body__anjara">
 
 ![paysage de Mada](/media/img/anjara.jpg)
+
+</div>
 
 </div>
 
