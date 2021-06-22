@@ -48,9 +48,9 @@ Antsakaviro lot II M 92 . Antananarivo - 101 Madagascar
 
 </div>
 
-<br />
-
 <hr className="ruler contact-last-ruler"/>
+
+<br />
 
 <div>
 
