@@ -28,7 +28,7 @@ N’hésitez pas à nous contacter !
 <br />
 
 #### Hanitrinialasoa RAJOHNSON
-Directrice de développement
+##### Directrice de développement
 
 <br />
 
@@ -47,6 +47,10 @@ Antsakaviro lot II M 92 . Antananarivo - 101 Madagascar
 ### [contact.anjaraconsulting@gmail.com](mailto:contact.anjaraconsulting@gmail.com)
 
 </div>
+
+<br />
+
+<hr className="ruler contact-last-ruler"/>
 
 <div>
 
