@@ -10,15 +10,18 @@ created: 2020-10-02T22:37:57.850Z
 ![](/media/img/communities3.jpg)
 
 <div className="card-container contact">
-<p className="contact-text">
+<div className="contact-text">
 
 Nous sommes à votre disposition si vous avez besoin d’un conseil
 N’hésitez pas à nous contacter !
+<br />
 
 <hr className="ruler"/>
 
 ### NY ANJARA - CONSULTING
 ##### Conseil en ingénierie - Montage d'opération - Développement foncier
+
+<br />
 
 <hr className="ruler"/>
 <br />
@@ -26,7 +29,12 @@ N’hésitez pas à nous contacter !
 #### Hanitrinialasoa RAJOHNSON
 Directrice de développement
 <br />
+
 Antsakaviro lot II M 92 . Antananarivo - 101 Madagascar
+
+<br />
+
+<hr className="ruler"/>
 
 ### [www.anjara-consulting.com](http://www.anjara-consulting.com/)
 
@@ -36,7 +44,7 @@ Antsakaviro lot II M 92 . Antananarivo - 101 Madagascar
 
 ### [contact.anjaraconsulting@gmail.com](mailto:contact.anjaraconsulting@gmail.com)
 
-</p>
+</div>
 
 <div>
 
