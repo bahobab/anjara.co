@@ -38,7 +38,7 @@ Antsakaviro lot II M 92 . Antananarivo - 101 Madagascar
 
 </p>
 
-<div >
+<div>
 
 <p style="text-align: center;">NY ANJARA CONSULTING, SARL</p>
 
