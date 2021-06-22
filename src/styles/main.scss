@@ -83,6 +83,7 @@ ul li {
 
   & h6 {
     text-align: right;
+    margin-right: 15px;
   }
 }
 
@@ -279,6 +280,10 @@ ul li {
     font-size: 2.3rem;
     letter-spacing: 2px;
     
+  }
+
+  .landing__quote h6 {
+    margin-right: 0;
   }
 
   div.about-wrapper {
