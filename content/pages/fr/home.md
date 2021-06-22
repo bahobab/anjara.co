@@ -10,7 +10,7 @@ created: 2020-10-02T16:40:01.429Z
 <div className="card-container">
 <div className="landing">
 
-<h1 className="landing-heading--primary">Anjara Consulting</h1>
+<h1 className="landing-heading--primary">NY Anjara Consulting</h1>
 
 <div className="landing__quote">
 
