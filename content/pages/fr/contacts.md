@@ -15,6 +15,8 @@ created: 2020-10-02T22:37:57.850Z
 Nous sommes à votre disposition si vous avez besoin d’un conseil
 N’hésitez pas à nous contacter !
 
+<hr className="ruler"/>
+
 ### NY ANJARA - CONSULTING
 ##### Conseil en ingénierie - Montage d'opération - Développement foncier
 
@@ -36,10 +38,13 @@ Antsakaviro lot II M 92 . Antananarivo - 101 Madagascar
 
 </p>
 
+<div>
+
 <p>NY ANJARA CONSULTING, SARL</p>
 
 ![](/media/img/pro4.jpg)
 
+</div>
 </div>
 
 
