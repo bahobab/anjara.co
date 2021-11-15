@@ -17,18 +17,18 @@ created: 2020-10-02T22:37:57.850Z
 ![carte de Madagascar](/media/img/madagascar-2020.jpg)
 
 </div>
-
+<div className="card-container main-body">
+MADAGASCAR, joyau de l’Océan indien au large des côtes du continent africain. Cette île surnommée Île rouge ou Île continent est la cinquième plus grande île du monde, longue de 1580 km et large de 580 km. Elle est le fruit de plusieurs migrations de peuples, le sanctuaire d'une nature unique au monde, mais aussi de nombreux revirements historiques et économiques.
+<br /><br />
+L'île possède une grande diversité en matière de faune et de flore, qu'on ne retrouve, pour la grande majorité, nulle part ailleurs : 80 à 90 % des espèces sont endémiques. L’île est ainsi un peu comme un laboratoire grandeur nature.
+</div>
 </div>
 
 <div className="card about">
 
 <div className="card-container main-body">
 
-MADAGASCAR, joyau de l’Océan indien au large des côtes du continent africain. Cette île surnommée Île rouge ou Île continent est la cinquième plus grande île du monde, longue de 1580 km et large de 580 km. Elle est le fruit de plusieurs migrations de peuples, le sanctuaire d'une nature unique au monde, mais aussi de nombreux revirements historiques et économiques.
-
-L'île possède une grande diversité en matière de faune et de flore, qu'on ne retrouve, pour la grande majorité, nulle part ailleurs : 80 à 90 % des espèces sont endémiques. L’île est ainsi un peu comme un laboratoire grandeur nature.
-
-<div className="heading-center">
+<div className="heading-center about-top">
 
 #### POPULATION COSMOPOLITE, CULTURE DIVERSE:
 

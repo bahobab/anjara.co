@@ -350,11 +350,16 @@ ul li {
   div.about-wrapper {
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: space-between;
   }
 
   div.about {
-    width: 50%;
+    width: 49.1%;
     // flex: auto;
+  }
+
+  .about-top {
+    margin-top: 0;
   }
 
   .equipe-wrapper,
