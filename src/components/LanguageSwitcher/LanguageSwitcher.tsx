@@ -25,7 +25,9 @@ const LanguageSwitcher: FunctionComponent<Props> = ({ onClick }) => {
 
         return (
           <Link href={pathname} as={localisedAs} key={locale}>
-            <a onClick={onClick}>{displayName}</a>
+            <a className="lang-disable" onClick={onClick}>
+              {displayName}
+            </a>
           </Link>
         );
       })}

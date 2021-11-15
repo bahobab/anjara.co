@@ -3,6 +3,7 @@ name: About
 title: Madagascar
 created: 2020-10-02T22:37:57.850Z
 ---
+
 <div className="container">
 
 <div className="card">
@@ -23,7 +24,7 @@ created: 2020-10-02T22:37:57.850Z
 
 <div className="card-container main-body">
 
-Madagascar, joyau de l’Océan indien au large des côtes du continent africain. Cette île surnommée Île rouge ou Île continent est la cinquième plus grande île du monde, longue de 1580 km et large de 580 km. Elle est le fruit de plusieurs migrations de peuples, le sanctuaire d'une nature unique au monde, mais aussi de nombreux revirements historiques et économiques.
+MADAGASCAR, joyau de l’Océan indien au large des côtes du continent africain. Cette île surnommée Île rouge ou Île continent est la cinquième plus grande île du monde, longue de 1580 km et large de 580 km. Elle est le fruit de plusieurs migrations de peuples, le sanctuaire d'une nature unique au monde, mais aussi de nombreux revirements historiques et économiques.
 
 L'île possède une grande diversité en matière de faune et de flore, qu'on ne retrouve, pour la grande majorité, nulle part ailleurs : 80 à 90 % des espèces sont endémiques. L’île est ainsi un peu comme un laboratoire grandeur nature.
 
@@ -42,8 +43,11 @@ Venant d'horizons divers: Afrique, Sud-Est asiatique (Indonésie), Proche-Orient
 </div>
 
 Madagascar, comme tout Pays, a lui aussi été gravement atteint des conséquences du Covid19 tant sur le plan Économique que Social.
-
-Afin de relancer ses lacunes, le Président de la République favorise dans la politique le partenariat 3 P ( Partenariat Privé Public ). Anjara Consulting justement entre dans ce paramètre dans l'accompagnement de Madagascar dans l'identification de partenaires Étrangers dans le but de concrétiser les 13 velirano du Président de la République qui sont:
+<br /><br />
+Afin de relancer ses lacunes, le Président de la République favorise dans la politique le partenariat 3P: (Partenariat - Privé - Public).
+<br /><br />
+Anjara Consulting justement entre dans ce paramètre dans l'accompagnement de Madagascar dans l'identification de partenaires Étrangers dans le but de concrétiser les 13 velirano du Président de la République qui sont:
+<br />
 
 - La paix et la sécurité, une prioritê
 - L’énergie et l’eau pour tous
@@ -59,8 +63,9 @@ Afin de relancer ses lacunes, le Président de la République favorise dans la p
 - L’autonomisation et la responsabilisation de nos territoires
 - Le sport, une fierté nationale
 
-Voilà pourquoi anjara-Consulting est votre parfait partenaire pour vous accompagner comme investisseurs sur le développement économique de la république de Madagascar.
+<br />
 
+Voilà pourquoi anjara-Consulting est votre parfait partenaire pour vous accompagner comme investisseurs sur le développement économique de la république de Madagascar.
 
 </div>
 
@@ -73,7 +78,6 @@ Voilà pourquoi anjara-Consulting est votre parfait partenaire pour vous accompa
 ![paysage de Mada](/media/img/anjara.jpg)
 
 </div>
-
 
 </div>
 

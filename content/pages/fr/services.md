@@ -3,6 +3,7 @@ name: Services
 title: SERVICES
 created: 2021-05-30T16:08:03.387Z
 ---
+
 <div className="container">
 <div className="card">
 
@@ -31,7 +32,6 @@ Contactez - nous pour organiser un rdv a votre convenance pour évoquer votre si
 
 </div>
 
-
 <div className="card right">
 
 ### PROFESSIONELS
@@ -40,10 +40,10 @@ Contactez - nous pour organiser un rdv a votre convenance pour évoquer votre si
 
 <div className="card-container main-body">
 
-
 Vous êtes investisseurs dans la promotion immobilière, aménageurs, constructeurs, bâtiment, l’éner​gie, l’assainissement, etc..
 
 Anjara-Consulting vous propose une offre globale d’assistance allant de:
+<br /><br />
 
 R1​– identification de votre investissement sur le territoire ​​Malgache
 

@@ -3,9 +3,12 @@ name: Contacts
 title: CONTACTS
 created: 2020-10-02T22:37:57.850Z
 ---
+
 <div className="container">
 
 <div className="card">
+
+<div className="contact-wrapper">
 
 ![](/media/img/communities3.jpg)
 
@@ -20,6 +23,7 @@ N’hésitez pas à nous contacter !
 <hr className="ruler"/>
 
 ### NY ANJARA - CONSULTING
+
 ##### Conseil en ingénierie - Montage d'opération - Développement foncier
 
 <br />
@@ -28,6 +32,7 @@ N’hésitez pas à nous contacter !
 <br />
 
 #### Hanitrinialasoa RAJOHNSON
+
 ##### Directrice de développement
 
 <br />
@@ -61,10 +66,11 @@ Antsakaviro lot II M 92 . Antananarivo - 101 Madagascar
 </div>
 </div>
 
-
 <div className="main-body__anjara">
 
 ![paysage de Mada](/media/img/anjara.jpg)
+
+</div>
 
 </div>
 
